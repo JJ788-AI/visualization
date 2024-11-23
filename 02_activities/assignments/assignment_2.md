@@ -11,8 +11,12 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
-
-
+     
+     Good data visualization 
+      The visualization is intuitive and clear, using color gradients to represent the number of holidays, making it easy to understand at a glance. In terms of interaction, annotations have been added, allowing users to immediately view the corresponding country and its number of holidays. This enhances the clarity of the interface and increases interactivity. Correspondingly, horizontal markers are used to display the average and minimum values, enabling a direct comparison of which countries are above or below the average. This makes it possible to see the overall distribution and density at a glance. The entire visualization focuses on core data without unnecessary distractions, adhering to the principle of data simplification.
+      
+      Bad data visulization 
+      The visualization suffers from the issue of overly dense and clustered bar charts for each country, leading to overlapping elements that make certain details difficult to discern. Additionally, the arrangement of the bars is chaotic, as they are organized based on geographical position (from left to right on the map) rather than by the length of holidays. However, geographical location does not have a direct relationship with the number of holidays, making this arrangement less meaningful.
 
 
 
@@ -23,6 +27,11 @@
       ```
       Your answer...
 
+      Improvements can be made from the following aspects:
+      1.Rearrange the Bar Chart Data: Organize the bars based on the number of holidays in ascending or descending order. This would help users quickly grasp the trend and identify countries with the most or least holidays more intuitively.
+      
+      2.Adjust the Spacing Between Bars: Modify the spacing to ensure that the bars are not overlapping or cluttered. This will enhance readability and make each country's data easier to distinguish.
+      
 
 
 
