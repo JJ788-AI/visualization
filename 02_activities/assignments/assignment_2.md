@@ -11,7 +11,7 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
-     
+     https://public.tableau.com/app/profile/mateusz.karmalski/viz/CountrieswiththeMostHolidaysin2024makeovermonday/Dashboard12
      Good data visualization 
       The visualization is intuitive and clear, using color gradients to represent the number of holidays, making it easy to understand at a glance. In terms of interaction, annotations have been added, allowing users to immediately view the corresponding country and its number of holidays. This enhances the clarity of the interface and increases interactivity. Correspondingly, horizontal markers are used to display the average and minimum values, enabling a direct comparison of which countries are above or below the average. This makes it possible to see the overall distribution and density at a glance. The entire visualization focuses on core data without unnecessary distractions, adhering to the principle of data simplification.
       
