@@ -6,16 +6,38 @@
 - Let’s return to the data visualizations we evaluated for Assignment 2.  
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
-        ```
-        Your answer...
-
-
+        ```Answer: Evaluation of Visualization: "Countries with the Most Holidays in 2024"
+        https://public.tableau.com/app/profile/mateusz.karmalski/viz/CountrieswiththeMostHolidaysin2024makeovermonday/Dashboard12
+Accessibility: The visualization is moderately accessible. Its clear labeling, contrasting colors, and concise legends help viewers understand the key message quickly. However, the design could be improved to meet accessibility standards fully by including features such as colorblind-friendly palettes and additional text-based descriptions to accommodate screen readers.
+Reproducibility: The chart's source data and methodology are not fully detailed in the visualization, which reduces its reproducibility. To enhance this aspect, it would need transparent citations of data sources, an explanation of any calculations performed (e.g., counting holidays by country), and a link to the raw data for verification.
+Equity: While the visualization presents data fairly across all countries, it doesn't address context, such as the reasons for variations in public holidays (e.g., cultural or economic factors). Adding contextual notes or complementary data could make the analysis more equitable by providing a balanced view.
+https://public.tableau.com/app/profile/lisa.trescott/viz/HowCommonIsYourBirthday_17222664505560/Birthday 
+Answer: Is this data visualization accessible, reproducible, and equitable?
+Accessibility: Mostly accessible but could improve with color adjustments for colorblind users.
+Reproducibility: Lacks transparency about data sources and methodology.
+Equity: Does not address cultural or demographic differences in birth data​
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-        Your answer...
+    Recommendations for Improvement
+        https://public.tableau.com/app/profile/mateusz.karmalski/viz/CountrieswiththeMostHolidaysin2024makeovermonday/Dashboard12
+Answer:Use a color palette optimized for colorblind users, such as ColorBrewer palettes.
+Add tooltips or descriptions for each element for screen readers to interpret effectively.
+Reproducibility Measures:
 
+Include a link or reference to the raw dataset used for the visualization.
+Provide an overview of the methodology, such as criteria for counting holidays (e.g., national vs. regional holidays).
+Equity Adjustments:
+
+Contextualize the data by including a supplementary narrative on why some countries have more holidays than others (e.g., cultural or legal factors).
+Compare holiday counts with other relevant metrics, such as GDP or average working hours, to offer deeper insights.
+
+https://public.tableau.com/app/profile/lisa.trescott/viz/HowCommonIsYourBirthday_17222664505560/Birthday 
+Answer: Accessibility: Use colorblind-friendly palettes and provide text descriptions for screen readers.
+Clarity: Add context or annotations to explain key patterns (e.g., popular months for birthdays).
+Equity: Include demographic breakdowns or address leap year omissions.
+Reproducibility: Share dataset links or methodology for transparency​
 
 
         ```
